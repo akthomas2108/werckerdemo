@@ -1,0 +1,6 @@
+X_USERNAME=akthomas
+X_PASSWORD=docker4ME
+X_REPONAME=akthomas/werckerdemo
+X_TAGNAME="1505"
+X_CNT_NAME=test-wercker-container
+X_IMAGE_BASE="akthomas/werckerdemo"
